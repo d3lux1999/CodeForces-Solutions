@@ -1,5 +1,5 @@
 # CodeForces-Solutions
-Learning competitive programming
+Learning c++ with competitive programming
 
 https://codeforces.com/problemset
 
